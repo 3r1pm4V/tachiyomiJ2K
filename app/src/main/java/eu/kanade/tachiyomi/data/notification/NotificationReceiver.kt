@@ -32,7 +32,6 @@ import uy.kohesive.injekt.Injekt
 import uy.kohesive.injekt.api.get
 import uy.kohesive.injekt.injectLazy
 import java.io.File
-import java.util.ArrayList
 import eu.kanade.tachiyomi.BuildConfig.APPLICATION_ID as ID
 
 /**

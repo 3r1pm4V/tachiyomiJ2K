@@ -16,7 +16,6 @@ import eu.kanade.tachiyomi.ui.setting.SettingsController
 import eu.kanade.tachiyomi.util.view.activityBinding
 import eu.kanade.tachiyomi.util.view.liftAppbarWith
 import eu.kanade.tachiyomi.util.view.withFadeTransaction
-import uy.kohesive.injekt.api.get
 
 /**
  * This controller shows and manages the different search result in settings search.

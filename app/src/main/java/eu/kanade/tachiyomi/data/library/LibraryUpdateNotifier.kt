@@ -34,7 +34,6 @@ import eu.kanade.tachiyomi.util.system.notificationManager
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch
 import uy.kohesive.injekt.injectLazy
-import java.util.ArrayList
 
 class LibraryUpdateNotifier(private val context: Context) {
 

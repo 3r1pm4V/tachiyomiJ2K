@@ -57,7 +57,7 @@ class WebtoonViewer(val activity: ReaderActivity, val hasMargins: Boolean = fals
     /**
      * Distance to scroll when the user taps on one side of the recycler view.
      */
-    private var scrollDistance = activity.resources.displayMetrics.heightPixels * 3 / 4
+    private var scrollDistance = activity.resources.displayMetrics.heightPixels / 10
 
     /**
      * Currently active item. It can be a chapter page or a chapter transition.

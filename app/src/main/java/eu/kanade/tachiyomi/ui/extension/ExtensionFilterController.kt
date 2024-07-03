@@ -10,7 +10,6 @@ import eu.kanade.tachiyomi.ui.setting.SettingsController
 import eu.kanade.tachiyomi.ui.setting.onChange
 import eu.kanade.tachiyomi.ui.setting.titleRes
 import eu.kanade.tachiyomi.util.system.LocaleHelper
-import uy.kohesive.injekt.api.get
 import uy.kohesive.injekt.injectLazy
 
 class ExtensionFilterController : SettingsController() {
